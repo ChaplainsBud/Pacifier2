@@ -1,14 +1,14 @@
-Test: Am I on the right track? 
 
-Violence is very expensive:
+This is an informative site. There are eight categories. I want to understand:
 
-a. Internal: Mental Illness
-b. Workforce Violence
-c. Intimate Partner Violence
-d. Domestic Violence
-e. Neighobrhood Crime: especially catcalling, stalking, molestation, and rape, as well as bullying
-f. Nationwide Crime
-g. Civil War
-h. War 
+I. Prevalence
 
-The goal of this app is to inform how to identify and correct inner conflict, intrapersonal conflict, and scale up to global conflict. 
+II. Cause
+
+III. Cure 
+
+For example, how often do men beat their partners? IPV
+
+Why do they beat their partner?
+
+How can we cure it? Healing Masculinity, helping men not feel entitled to extra respect and obedience... nor limiting the range of the rainbow of emotions to red: anger. Because in general, it's fathers and sons, grandsons... not women.
